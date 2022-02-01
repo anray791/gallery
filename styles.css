@@ -1,0 +1,92 @@
+body {
+    color: #191970;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    margin: 2.5%;
+}
+
+.hr1 {
+    height: 7px;
+    background: linear-gradient(45deg, #191970, #4169e1);
+}
+
+.image {
+    height: 350px;
+    width: 20%;
+    float: left;
+    margin: 2.5%;
+    background-size: cover;
+    background-position: center;
+}
+
+.image1 {
+    background-image: url("lipstick/carmex.jpg");
+}
+
+.image2 {
+    background-image: url("lipstick/clarins.jpg");
+}
+
+.image3 {
+    background-image: url("lipstick/dior.jpg");
+}
+
+
+.image4 {
+    background-image: url("lipstick/maybelline.jpg");
+}
+
+
+.image5 {
+    background-image: url("lipstick/nyx.jpg");
+}
+
+
+.image6 {
+    background-image: url("lipstick/tf.jpg");
+}
+
+
+.image7 {
+    background-image: url("lipstick/vs.jpg");
+}
+
+
+.image8 {
+    background-image: url("lipstick/ysl.jpg");
+}
+
+
+.text {
+    font-family: 'Poppins', sans-serif;
+    margin: 2.5%;
+}
+
+h3 {
+    font-family: 'Dongle', sans-serif;
+    font-size: 35px;
+    margin: 2.5%;
+}
+
+h2 {
+    font-size: 30px;
+    border-left: 5px solid #4169e1 ;
+    padding-left: 5px;
+}
+
+p {
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #4169e1;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: steelblue;
+}
